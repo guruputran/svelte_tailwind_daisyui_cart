@@ -1,4 +1,4 @@
-# Svelte + Vite
+# Svelte + Vite + Daisy UI + Cart + Tailwind Ui
 
 This template should help get you started developing with Svelte in Vite.
 
